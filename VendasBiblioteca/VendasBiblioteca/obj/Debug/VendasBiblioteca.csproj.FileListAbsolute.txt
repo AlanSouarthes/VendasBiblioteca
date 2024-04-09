@@ -1,0 +1,8 @@
+C:\Users\alan.osouarthes\source\repos\VendasBiblioteca\VendasBiblioteca\obj\Debug\VendasBiblioteca.csproj.AssemblyReference.cache
+C:\Users\alan.osouarthes\source\repos\VendasBiblioteca\VendasBiblioteca\obj\Debug\VendasBiblioteca.csproj.SuggestedBindingRedirects.cache
+C:\Users\alan.osouarthes\source\repos\VendasBiblioteca\VendasBiblioteca\obj\Debug\VendasBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\alan.osouarthes\source\repos\VendasBiblioteca\VendasBiblioteca\bin\Debug\VendasBiblioteca.exe.config
+C:\Users\alan.osouarthes\source\repos\VendasBiblioteca\VendasBiblioteca\bin\Debug\VendasBiblioteca.exe
+C:\Users\alan.osouarthes\source\repos\VendasBiblioteca\VendasBiblioteca\bin\Debug\VendasBiblioteca.pdb
+C:\Users\alan.osouarthes\source\repos\VendasBiblioteca\VendasBiblioteca\obj\Debug\VendasBiblioteca.exe
+C:\Users\alan.osouarthes\source\repos\VendasBiblioteca\VendasBiblioteca\obj\Debug\VendasBiblioteca.pdb
